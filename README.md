@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning instrumentation
 - 💞️ I’m looking to collaborate on research
 - 📫 How to reach me email
-- 😄 Pronouns: wish
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: happy
 
 <!---
