@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lechu243
 - 👀 I’m interested in writing
 - 🌱 I’m currently learning instrumentation
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on research
 - 📫 How to reach me email
 - 😄 Pronouns: wish
 - ⚡ Fun fact: happy
